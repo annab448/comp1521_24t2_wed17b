@@ -1,0 +1,10 @@
+this week:
+tutorial code for this week:
+printer.c: using bits as flags, checking, setting, toggling, unsetting bits
+
+plus some we didn't have time for!
+- reverseWord.c: using a for loop to look at one bit at a time
+
+also added some pics of the base conversion/bitwise calculations :)
+
+happy flex week!
