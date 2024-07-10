@@ -1,0 +1,8 @@
+negative numbers
+twos complement
+- converting either way FLIP bits, add 1
+- explanation of why it works https://www.ralismark.xyz/posts/twos-complement
+
+floating point numbers
+- wikipedia page for single precision floating point nums https://en.wikipedia.org/wiki/Single-precision_floating-point_format
+- float bits <-> value converter https://www.h-schmidt.net/FloatConverter/IEEE754.html
